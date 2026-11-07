@@ -1,5 +1,6 @@
 # Catálogo Virtual TSP - Subgrupo B05
 ## Desarrollo de Software en Equipos · Politécnico Grancolombiano
+### Tutora: Diana Angélica Cruz Ortega
 
 Bienvenido al repositorio oficial del proyecto colaborativo para el módulo de **Desarrollo de Software en Equipos** (Segundo Bloque - Grupo B05). 
 
@@ -26,13 +27,11 @@ Desarrollar una aplicación web interactiva que funcione como catálogo virtual 
 
 | Rol TSP | Responsable | Usuario GitHub | Función Principal |
 | :--- | :--- | :--- | :--- |
-| **Líder de Equipo (Team Leader)** | *Líder del Proyecto* | `@glossaga` | Dirección general, actas, seguimiento de compromisos y aprobación de Pull Requests. |
-| **Gerente de Desarrollo** | *Por confirmar* | `@` | Arquitectura, diseño técnico, especificación de componentes y asignación de código. |
-| **Gerente de Planeación** | *Por confirmar* | `@` | Matriz de estimación, balance de carga semanal, cronograma e hitos del proyecto. |
-| **Gerente de Calidad y Proceso** | *Por confirmar* | `@` | Estándares de codificación, revisiones por pares (Code Review) y cumplimiento TSP. |
-| **Gerente de Soporte** | *Por confirmar* | `@` | Configuración del repositorio, ramas de Git, herramientas y gestión de configuración. |
-
-> 📌 **Para elegir tu rol y reportar tu disponibilidad semanal:** consulta y edita el archivo [`ROLES_Y_EQUIPO.md`](./ROLES_Y_EQUIPO.md).
+| **Líder de Equipo (Team Leader)** | **GLORIA LUCIA OSSA GARCIA** | `@glossaga` | Dirección general, actas, seguimiento de compromisos y aprobación de Pull Requests. |
+| **Gerente de Calidad y Proceso** | **HAIDER MAURICIO BOTIA GÓMEZ** | `@haiderbxmauricio-svg` | Estándares de codificación, revisiones por pares (Code Review), auditoría de bitácora y cumplimiento TSP. |
+| **Gerente de Planeación** | **KAROL ESPINOSA MANTILLA** | `@` | Matriz de estimación, balance de carga semanal, cronograma e hitos del proyecto. |
+| **Gerente de Desarrollo** | **JOAN MORALES PÉREZ** | `@` | Arquitectura, diseño técnico, especificación de componentes y asignación de código. |
+| **Gerente de Soporte** | **DIEGO RAMOS PEÑA** | `@` | Configuración del repositorio, ramas de Git, herramientas y gestión de configuración. |
 
 ---
 
@@ -64,4 +63,4 @@ Para garantizar la calidad y que la Líder de Proyecto y el Gerente de Calidad p
    git push origin feature/modulo-busqueda
    ```
 5. Abrir un **Pull Request (PR)** hacia `main`.
-6. La **Líder del Proyecto** (`@glossaga`) y el **Gerente de Calidad** revisarán el código, verificarán que cumpla los criterios de aceptación y aprobaran el merge.
+6. La **Líder del Proyecto** (`@glossaga`) y el **Gerente de Calidad** (`@haiderbxmauricio-svg`) revisarán el código, verificarán que cumpla los criterios de aceptación y aprobarán el merge.
