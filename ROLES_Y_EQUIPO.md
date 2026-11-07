@@ -20,10 +20,11 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
    - Verifica el diligenciamiento de las actas de reunión y la aplicación del proceso TSP.
    - Apoya con la revisión de avances y la documentación.
 
-3. **Gerente de Planeación — KAROL ESPINOSA MANTILLA**
+3. **Gerente de Planeación — KAROL TATIANA ESPINOSA MANTILLA (@KarolTe)**
    - Conduce la elaboración del plan de trabajo y la lista detallada de tareas (WBS).
    - Verifica el balance de carga semanal entre todos los integrantes.
    - Monitorea el cumplimiento de las fechas e hitos del calendario académico.
+   - Apoya con la estimación y consolidación de horas semanales.
 
 4. **Gerente de Desarrollo — JOAN MORALES PÉREZ**
    - Conduce la definición de requisitos y el diseño de la arquitectura del software.
@@ -43,7 +44,7 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
 | :--- | :---: | :---: | :--- | :--- | :---: |
 | **GLORIA LUCIA OSSA GARCIA** | **GO** | `@glossaga` | `glossaga@gmail.com` | **Líder de Equipo** | 10 - 12 hrs/sem |
 | **HAIDER MAURICIO BOTIA GÓMEZ** | **HMB** | `@haiderbxmauricio-svg` | `haiderbxmauricio@gmail.com` | **Gerente de Calidad y Proceso** | 4 - 6 hrs/sem |
-| **KAROL ESPINOSA MANTILLA** | **KE** | `@` | `kespinosa@poligran.edu.co` | **Gerente de Planeación** | 10 - 12 hrs/sem |
+| **KAROL TATIANA ESPINOSA MANTILLA** | **KTE** | `@KarolTe` | `karoltespi@gmail.com` | **Gerente de Planeación** | 6 hrs/sem |
 | **JOAN MORALES PÉREZ** | **JM** | `@` | `jmorales@poligran.edu.co` | **Gerente de Desarrollo** | 10 - 12 hrs/sem |
 | **DIEGO RAMOS PEÑA** | **DR** | `@` | `dramos@poligran.edu.co` | **Gerente de Soporte** | 10 - 12 hrs/sem |
 
@@ -55,10 +56,10 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **GLORIA LUCIA OSSA GARCIA** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
 | **HAIDER MAURICIO BOTIA GÓMEZ** | 4 | 5 | 6 | 5 | 6 | 5 | 6 | 4 | **41** |
-| **KAROL ESPINOSA MANTILLA** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
+| **KAROL TATIANA ESPINOSA MANTILLA** | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | **48** |
 | **JOAN MORALES PÉREZ** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
 | **DIEGO RAMOS PEÑA** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
-| **Total Equipo** | **44** | **45** | **54** | **45** | **54** | **45** | **54** | **44** | **385** |
+| **Total Equipo** | **40** | **41** | **50** | **41** | **50** | **41** | **50** | **34** | **347** |
 
 ---
 
@@ -66,5 +67,5 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
 
 1. **Puntualidad en Reuniones:** Sesiones los miércoles a las 19:00 y sábados a las 16:00 vía Microsoft Teams (tolerancia máxima de 10 minutos).
 2. **Comunicación Activa:** Canal oficial WhatsApp del Subgrupo B05 con tiempo de respuesta máximo de 12 horas. Notificar cualquier bloqueo con al menos 48 horas de anticipación.
-3. **Revisión por Pares Obligatoria:** Ningún cambio se mezcla a `main` sin la revisión y aprobación de un Pull Request coordinada por el Gerente de Calidad (`@haiderbxmauricio-svg`) y la Líder (`@glossaga`).
+3. **Revisión por Pares Obligatoria:** Ningún cambio se mezcla a `main` sin la revisión y aprobación de un Pull Request coordinada por el Gerente de Calidad (`@haiderbxmauricio-svg`), la Gerente de Planeación (`@KarolTe`) y la Líder (`@glossaga`).
 4. **Registro Continuo de Horas:** Cada integrante debe registrar sus tiempos en [`BITACORA_TIEMPOS_TSP.md`](./BITACORA_TIEMPOS_TSP.md) al finalizar cada sesión de trabajo.

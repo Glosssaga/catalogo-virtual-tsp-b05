@@ -29,7 +29,7 @@ Desarrollar una aplicación web interactiva que funcione como catálogo virtual 
 | :--- | :--- | :--- | :--- |
 | **Líder de Equipo (Team Leader)** | **GLORIA LUCIA OSSA GARCIA** | `@glossaga` | Dirección general, actas, seguimiento de compromisos y aprobación de Pull Requests. |
 | **Gerente de Calidad y Proceso** | **HAIDER MAURICIO BOTIA GÓMEZ** | `@haiderbxmauricio-svg` | Estándares de codificación, revisiones por pares (Code Review), auditoría de bitácora y cumplimiento TSP. |
-| **Gerente de Planeación** | **KAROL ESPINOSA MANTILLA** | `@` | Matriz de estimación, balance de carga semanal, cronograma e hitos del proyecto. |
+| **Gerente de Planeación** | **KAROL TATIANA ESPINOSA MANTILLA** | `@KarolTe` | Matriz de estimación (WBS), balance de carga semanal, cronograma e hitos del proyecto. |
 | **Gerente de Desarrollo** | **JOAN MORALES PÉREZ** | `@` | Arquitectura, diseño técnico, especificación de componentes y asignación de código. |
 | **Gerente de Soporte** | **DIEGO RAMOS PEÑA** | `@` | Configuración del repositorio, ramas de Git, herramientas y gestión de configuración. |
 
