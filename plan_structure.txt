@@ -1,0 +1,295 @@
+=== PARAGRAPHS ===
+P0 [Title]: Plan de lanzamiento del proyecto
+P1 [Normal]: Documento de planeación del equipo TSP
+P3 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P4 [Normal]: Cómo usar esta plantilla. Los textos en cursiva azul, como este, son orientaciones para el equipo. Cada una explica el sentido de la sección, la forma de diligenciarla y las lecturas fundamentales donde el tema se desarrolla con mayor profundidad. A medida que el equipo completa cada sección, elimina la orientación correspondiente; la versión entregada contiene únicamente la información del proyecto.
+P5 [Normal]: La plantilla sirve para cualquier proyecto de desarrollo de software. Los ejemplos que aparecen en las orientaciones usan un proyecto ilustrativo, una aplicación de reserva de salas de estudio para una biblioteca universitaria, y deben reemplazarse por la información del proyecto propio.
+P6 [Normal]: La plantilla reúne lo que solicita la Entrega 1: el planteamiento del proyecto, el equipo y sus roles, las tareas y el calendario con los que el equipo pretende lograr su objetivo, y las actas de las reuniones realizadas. Corresponde a los primeros formularios del TSPi Workbook, organizados como documentación de proyecto para que el equipo pueda mantenerlos y presentarlos durante todo el desarrollo. Conviene conservar una copia de cada versión entregada.
+P8 [Heading 1]: Historial de versiones del plan
+P10 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P11 [Normal]: El historial registra la evolución del plan a lo largo del proyecto. La versión 1.0 corresponde al plan inicial. Cada vez que el equipo modifique tareas, responsables, horas o fechas, agrega una fila que describe el cambio, la situación que lo originó, su efecto sobre el plan y los integrantes que lo aprobaron.
+P12 [Normal]: La Lectura Fundamental 2 explica que TSP es un proceso iterativo: los planes del equipo se actualizan en cada ciclo, a medida que se completan actividades y aparecen otras nuevas. Este historial reúne en un solo lugar la información que el equipo necesita para explicar, en los reportes de avance y en el cierre del proyecto, cómo y por qué cambió el plan.
+P14 [Heading 1]: 1. Presentación del proyecto
+P15 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P16 [Normal]: Esta sección construye lo que la Lectura Fundamental 1 denomina un dominio común: una comprensión compartida de las metas del equipo, el producto que se va a construir, los recursos disponibles, las limitaciones y las medidas de éxito. Cuando todos los integrantes describen el proyecto de la misma forma, las decisiones posteriores sobre tareas, prioridades y cambios parten de un acuerdo explícito. Corresponde al formulario de planteamiento del proyecto que menciona la Entrega 1. Se recomienda redactarla en una reunión con todo el equipo presente y a partir del enunciado que da origen al proyecto.
+P17 [Normal]: Consulta recomendada: Lectura Fundamental 1, sección 4.2 (Establezca un dominio común).
+P19 [Heading 2]: 1.1 Datos generales
+P21 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P22 [Normal]: Normalmente, conviene que la fecha de inicio corresponda al lunes de la semana en que comienza el trabajo, porque el plan y su seguimiento se organizan por semanas completas, en el Poli ustedes deciden y lo harán el lunes o el miércoles coincidiendo con el cronograma de los escenarios.  La última fila identifica el documento del que provienen los requisitos, para que cualquier lector pueda contrastar el plan con lo solicitado, en este caso corresponde con el enunciado de la actividad evaluativa publicado en su escenario 3. 
+P24 [Heading 2]: 1.2 Objetivo del producto
+P26 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P27 [Normal]: El objetivo describe en una o dos frases qué producto entrega el equipo, para quién y con qué resultado observable al final del proyecto. Un objetivo formulado de esta manera permite verificar, en la entrega final, si se cumplió. 
+P29 [Heading 2]: 1.3 Usuarios del producto
+P31 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P32 [Normal]: Esta tabla identifica a las personas que interactúan con el producto y lo que cada una espera lograr. Un mismo producto suele tener varios tipos de usuario con necesidades diferentes.
+P33 [Normal]: La descripción caracteriza a cada tipo de usuario con los rasgos que influyen en el diseño: qué lo lleva a usar el producto, con qué frecuencia lo hace y qué información considera decisiva. La columna de necesidades se redacta como acciones concretas y la última columna las vincula con los requisitos de la sección 1.5. Una necesidad sin requisito asociado señala una función que el equipo decide si incluye en el alcance o registra como exclusión.
+P34 [Normal]: Consulta recomendada: Lectura Fundamental 3, sección 2.2, funciones del administrador de la interfaz del cliente, responsable de entender las necesidades del cliente y orientar el producto hacia ellas.
+P36 [Heading 2]: 1.4 Alcance
+P38 [Heading 3]: 1.4.1   El proyecto incluye: 
+P40 [Heading 3]: 1.4.1   El proyecto deja por fuera:  
+P41 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P42 [Normal]: El alcance fija los límites del compromiso del equipo. Recoge los módulos y funciones que el equipo construirá. Mientras en la sección 1.4.1 registra funciones que podrían esperarse de un producto de este tipo y que el proyecto excluye de manera deliberada.
+P43 [Normal]: Dejar estas exclusiones por escrito ayuda al equipo a concentrar su esfuerzo en lo solicitado y le ofrece un criterio para evaluar ideas nuevas durante el desarrollo: incorporar una función que figura en las exclusiones requiere una decisión del equipo, una revisión del plan y una entrada en el historial de versiones.
+P45 [Heading 2]: 1.5 Requisitos y criterios de aceptación
+P47 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P48 [Normal]: Esta tabla lista las funciones que el producto debe cumplir. La columna de origen indica si el requisito proviene del enunciado o del cliente, o si el equipo lo propuso; los requisitos propuestos por el equipo deben ser coherentes con el alcance.
+P49 [Normal]: El criterio de aceptación convierte cada requisito en una condición que cualquier integrante, el cliente o la tutora pueden comprobar al usar el producto. Un buen criterio describe una acción del usuario y el resultado esperado, e incluye los casos en que algo no ocurre como se espera. 
+P50 [Normal]: Estos criterios cumplen una función a lo largo de todo el proyecto: el gerente de desarrollo los usa para orientar el diseño y las pruebas, el gerente de calidad y proceso los usa para decidir cuándo una función está terminada, y el equipo los presenta en la entrega final como evidencia de cumplimiento. El equipo agrega tantas filas como requisitos tenga el proyecto.
+P51 [Normal]: Consulta recomendada: Lectura Fundamental 3, sección 2.2, descripción de las funciones de interfaz del cliente y de pruebas.
+P53 [Heading 2]: 1.6 Criterios de éxito del equipo
+P55 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P56 [Normal]: Además de los requisitos del producto, el equipo define entre tres y cinco criterios con los que evaluará su propio desempeño. Los criterios medibles permiten comprobar semana a semana si el equipo avanza en la dirección acordada. Algunos ejemplos: "todos los requisitos cumplen su criterio de aceptación una semana antes de la entrega final"; "el 100 % de los integrantes registra sus horas de trabajo cada semana"; "todo el código pasa por la revisión de otro integrante antes de integrarse al repositorio principal".
+P57 [Normal]: Cada criterio tiene un responsable que hace seguimiento a su cumplimiento y reporta su estado en las reuniones del equipo. Estos criterios son un insumo directo para el análisis y las conclusiones del cierre del proyecto.
+P58 [Normal]: Consulta recomendada: Lectura Fundamental 1, secciones 4.2 y 4.5; Lectura Fundamental 3, sección 2.1 (Cumplir con los compromisos).
+P60 [Heading 2]: 1.7 Entorno de trabajo y tecnologías
+P62 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P63 [Normal]: La Lectura Fundamental 3 asigna al gerente de soporte la responsabilidad de que el equipo cuente con las herramientas y métodos necesarios para su trabajo, incluidas la gestión de la configuración, el control de versiones y la gestión de cambios. Esta tabla registra esas herramientas.  Inicialmente usaremos lo que propone la metodología oficialmente, es decir, del TSPi Workbook. 
+P64 [Normal]: La elección de tecnologías considera las exigencias del producto y también las habilidades actuales del equipo. La Lectura Fundamental 3 recomienda asignar el trabajo según las habilidades existentes, porque la capacitación consume tiempo del proyecto; cuando el equipo elige una tecnología que algunos integrantes aún no dominan, el tiempo de aprendizaje se incluye como tarea en el plan. El gerente de soporte coordina esta sección y verifica que todos los integrantes, y la tutora o el cliente, tengan acceso a los enlaces desde la primera semana.
+P65 [Normal]: Consulta recomendada: Lectura Fundamental 3, secciones 1.4 y 2.2 (gerente de soporte).
+P67 [Heading 1]: 2. Equipo y roles
+P68 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P69 [Normal]: La Lectura Fundamental 2 enumera las condiciones de un equipo sólido: un objetivo común, cohesión en la tarea y en lo social, cooperación, comunicación abierta y una membresía claramente definida. Esta sección deja constancia de quiénes conforman el equipo, qué aporta cada persona y qué responsabilidad de gestión asume. Corresponde al formulario de equipo y roles que menciona la Entrega 1.
+P70 [Normal]: Consulta recomendada: Lectura Fundamental 2, sección 5; Lectura Fundamental 3, secciones 1 y 2.
+P72 [Heading 2]: 2.1 Integrantes
+P74 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P75 [Normal]: Las iniciales identifican a cada integrante en las tablas del plan y de las actas. Las dos últimas columnas recogen lo que cada persona sabe hacer (lenguajes, bases de datos, diseño de interfaces, pruebas, gestión) y lo que le interesa aprender o aportar. La Lectura Fundamental 3 propone cuatro criterios para conformar equipos: habilidades, aptitudes, interés y capacidad de trabajo en equipo. Esta información es la base para asignar los roles de manera argumentada en la siguiente sección.
+P77 [Heading 2]: 2.2 Asignación de roles
+P79 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P80 [Normal]: El equipo trabaja con los cinco roles del TSPi Workbook. Cada uno reúne funciones que la Lectura Fundamental 3 describe con mayor detalle:
+P81 [List Paragraph]: Líder de equipo: motiva y cohesiona al equipo, distribuye responsabilidades de forma equilibrada, conduce las reuniones, vela por el cumplimiento de los compromisos y representa al equipo ante la tutora o el cliente. Corresponde al líder de equipo de la lectura.
+P82 [List Paragraph]: Gerente de desarrollo: conduce la definición de requisitos, el diseño, la implementación y las pruebas del producto. Reúne las funciones que la lectura asigna al administrador de la interfaz del cliente y a los gerentes de diseño, de implementación y de pruebas.
+P83 [List Paragraph]: Gerente de planeación: conduce la elaboración del plan, verifica que las tareas estén repartidas de manera equilibrada, consolida cada semana las horas y tareas de los integrantes y reporta el estado del plan. Corresponde al gerente de planificación de la lectura.
+P84 [List Paragraph]: Gerente de calidad y proceso: propone los acuerdos de calidad del equipo, coordina las revisiones e inspecciones, verifica que el equipo siga el proceso acordado y que cada integrante registre sus datos a tiempo. Reúne las funciones de los gerentes de calidad y de proceso de la lectura.
+P85 [List Paragraph]: Gerente de soporte: provee y administra las herramientas del equipo, el repositorio, el control de versiones y la gestión de cambios. Corresponde al gerente de soporte de la lectura.
+P86 [Normal]: Los roles de gestión se suman al trabajo técnico: todos los integrantes diseñan, programan y prueban partes del producto, y además ejercen las responsabilidades de su rol. Cuando el equipo tiene menos de cinco integrantes, algunas personas asumen dos roles. Conviene agrupar roles compatibles, como planeación con soporte, y asignar a personas distintas el rol de desarrollo y el de calidad y proceso, de modo que la verificación de la calidad la realice alguien diferente a quien conduce la construcción. El suplente asume el rol cuando el titular no está disponible y se mantiene informado de su estado.
+P87 [Normal]: La columna de responsabilidades describe acciones propias del proyecto, con su frecuencia. Por ejemplo, para el gerente de planeación: "Cada domingo consolida en el tablero las horas y tareas registradas por los integrantes y presenta el estado del plan al inicio de la reunión semanal". La columna de evidencia indica el producto que demuestra ese trabajo, por ejemplo: "tablero actualizado y resumen de avance registrado en el acta".
+P89 [Heading 2]: 2.3 Acuerdos de trabajo
+P91 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P92 [Normal]: La Lectura Fundamental 2 describe la etapa de normalización como el momento en que el equipo llega a consensos sobre reglas, herramientas, procesos, estándares y estrategias de trabajo. Estos acuerdos son la versión escrita de ese consenso. Registrarlos al inicio facilita la convivencia del equipo y ofrece un punto de referencia objetivo cuando surgen diferencias, en coherencia con la responsabilidad de actuar racionalmente, apoyándose en hechos y datos, que la Lectura Fundamental 3 asigna a todos los miembros.
+P93 [Normal]: Cada acuerdo se formula de manera verificable. Algunos ejemplos:
+P94 [List Paragraph]: Revisión del trabajo: "Cada integrante revisa su propio código antes de solicitar la revisión de un compañero. Una tarea se considera terminada cuando cumple su criterio de aceptación, tiene una revisión aprobada por otro integrante y está integrada al repositorio principal". Este acuerdo aplica las prácticas de calidad de TSP descritas en la Lectura Fundamental 2: revisiones personales, listas de verificación e inspecciones.
+P95 [List Paragraph]: Bloqueos e incumplimientos: "Quien prevea que no cumplirá un compromiso lo informa en el canal del equipo con al menos 48 horas de anticipación; el equipo redistribuye la tarea en la siguiente reunión y lo registra en el acta..
+P96 [Normal]: Consulta recomendada: Lectura Fundamental 2, secciones 4 y 5; Lectura Fundamental 3, sección 2.1.
+P98 [Heading 1]: 3. Plan del proyecto
+P99 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P100 [Normal]: La Lectura Fundamental 1 establece que los únicos planes realistas son los que elaboran las personas responsables de cumplirlos, a partir de los recursos disponibles, la naturaleza del trabajo y las capacidades del equipo. Por esa razón, el plan se construye con la participación de todos los integrantes y cada persona estima las tareas que va a realizar.
+P101 [Normal]: La Entrega 1 solicita programar el calendario y las tareas con las cuales el equipo pretende lograr su objetivo. El orden de trabajo sugerido es el siguiente: primero se registra la disponibilidad semanal de cada integrante, luego se descompone el trabajo en tareas y se estima su esfuerzo, después se ubican las tareas en el calendario y, por último, se verifica que la carga de cada persona y de cada semana sea viable.
+P102 [Normal]: Consulta recomendada: Lectura Fundamental 1, sección 4.5; Lectura Fundamental 2, sección 3; Lectura Fundamental 3, sección 2.2 (gerente de planificación).
+P104 [Heading 2]: 3.1 Disponibilidad semanal (horas de tarea)
+P106 [Normal]: Restricciones conocidas
+P108 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P109 [Normal]: Cada integrante registra las horas que realmente puede dedicar al proyecto en cada semana; el equipo agrega o elimina columnas según la duración del proyecto. La Lectura Fundamental 2 distingue entre el tiempo transcurrido y el tiempo en tarea: este último descuenta interrupciones y actividades ajenas al trabajo planeado, y es la medida que usa TSP para planear y hacer seguimiento. Una disponibilidad estimada con honestidad, que considere semanas de evaluaciones, entregas de otros compromisos académicos, obligaciones laborales o viajes, produce un calendario que el equipo puede cumplir.
+P110 [Normal]: La tabla de restricciones permite anticipar estas situaciones y distribuir el trabajo de las semanas difíciles entre quienes tienen mayor disponibilidad.
+P112 [Heading 2]: 3.2 Lista de tareas
+P114 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P115 [Normal]: La lista de tareas descompone el proyecto completo en unidades de trabajo que una persona puede realizar, estimar y verificar. Una forma ordenada de construirla es recorrer cada requisito de la sección 1.5 por las fases del proceso: requisitos, diseño, revisión del diseño, implementación, revisión del código, pruebas e integración. A estas tareas se suman las de gestión, como las reuniones de planeación, la consolidación semanal del plan, la preparación de entregas y la presentación final.
+P116 [Normal]: Las fases de diseño, revisión y pruebas ocupan horas del plan al igual que la programación. La Lectura Fundamental 1 explica que corregir defectos detectados en etapas avanzadas resulta más costoso y que el diseño es una de las técnicas más eficaces para prevenirlos; planear tiempo para estas actividades es la manera concreta en que el equipo aplica ese principio.
+P117 [Normal]: Algunas pautas para diligenciar la tabla:
+P118 [List Paragraph]: Cada tarea tiene un solo responsable. Cuando un trabajo se reparte entre varias personas, se divide en tareas individuales, lo que permite reconocer el aporte de cada integrante.
+P119 [List Paragraph]: Las reuniones se registran como una tarea por cada participante, con las horas que cada uno dedica.
+P120 [List Paragraph]: Conviene que cada tarea pueda completarse dentro de una misma semana, de modo que su avance pueda verificarse en la reunión semanal. Una tarea más extensa se divide en partes.
+P121 [List Paragraph]: La columna de dependencias indica qué tareas deben terminar antes de que esta pueda iniciar; esta información orienta el orden del calendario.
+P122 [List Paragraph]: La evidencia de terminación describe lo que demuestra que la tarea está hecha: un documento revisado, un commit integrado, un caso de prueba aprobado.
+P123 [Heading 2]: 3.3 Calendario e hitos
+P125 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P126 [Normal]: El calendario reúne dos tipos de hitos. Los primeros son las entregas fijadas por la tutora o el cliente, con sus fechas. Los segundos son hitos internos que el equipo define para marcar avances verificables del producto; en el ejemplo ilustrativo: "consulta de disponibilidad funcionando", "reserva y cancelación integradas" o "módulo de administración probado".
+P127 [Normal]: Los hitos internos facilitan el seguimiento, porque permiten saber en una fecha concreta si el producto avanza al ritmo previsto. También constituyen la base de la línea de tiempo del proyecto, útil para presentar el proceso en el cierre.
+P129 [Heading 2]: 3.4 Verificación de viabilidad y balance de carga
+P130 [Normal]: Carga por integrante
+P132 [Normal]: Carga por semana
+P134 [Normal]: Comprobaciones finales
+P135 [Normal]: ☐  Cada requisito de la sección 1.5 tiene tareas asociadas en todas las fases que le corresponden.
+P136 [Normal]: ☐  Ningún integrante tiene asignadas más horas que su disponibilidad.
+P137 [Normal]: ☐  Ninguna semana supera las horas disponibles del equipo.
+P138 [Normal]: ☐  Las tareas con dependencias están programadas después de las tareas de las que dependen.
+P139 [Normal]: ☐  La carga de trabajo está repartida de manera equilibrada entre los integrantes.
+P140 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P141 [Normal]: Esta sección verifica que el plan sea realista, como exige el principio de planes y compromisos realistas de la Lectura Fundamental 1. Un total de horas suficiente para el proyecto completo puede coexistir con una persona sobrecargada o con una semana en la que el trabajo excede lo disponible; por eso la verificación se hace por integrante y por semana.
+P142 [Normal]: Cuando aparece una diferencia negativa, el equipo la resuelve reasignando tareas, moviéndolas de semana o ajustando el alcance, y registra la decisión en la columna de ajuste. La Lectura Fundamental 3 asigna al gerente de planeación la responsabilidad de que las tareas estén repartidas de manera uniforme; el equilibrio de la carga es también una condición para valorar con justicia el compromiso individual al cierre del proyecto.
+P144 [Heading 1]: 4. Registro de reuniones
+P145 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P146 [Normal]: La Entrega 1 establece que cada reunión realizada cuente con un acta de los participantes y de los avances logrados. Las actas registran cómo se tomaron las decisiones, quién participó y qué compromisos asumió cada persona. Al final del proyecto, son la principal evidencia para reconstruir lo ocurrido, valorar el aporte de cada integrante y extraer conclusiones sobre el trabajo en equipo.
+P147 [Normal]: El formato siguiente se duplica para cada reunión, con numeración consecutiva. Para el plan inicial se espera, como mínimo, el registro de las reuniones en las que el equipo asignó los roles, definió el alcance y elaboró el plan. Una práctica útil es iniciar cada reunión con la revisión de los compromisos del acta anterior; vincular cada compromiso con el ID de una tarea del plan facilita ese seguimiento.
+P148 [Normal]: Consulta recomendada: Lectura Fundamental 3, sección 2.1 (Comunicación; Participar plenamente de las actividades del equipo).
+P150 [Heading 2]: Acta de reunión N.º ___
+P152 [Normal]: Temas tratados y avances revisados
+P154 [Normal]: Decisiones tomadas
+P156 [Normal]: Dificultades identificadas
+P158 [Normal]: Compromisos
+P160 [Normal]: Próxima reunión: ___________________
+P161 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P162 [Normal]: Un acta útil registra lo esencial con precisión: quién estuvo, qué se decidió y por qué, y qué hará cada persona antes de la próxima reunión. La columna de evidencia puede enlazar el tablero de tareas, un commit, un documento o una captura de pantalla. Registrar el motivo de las ausencias permite al equipo distinguir situaciones ocasionales de dificultades que requieren atención.
+P164 [Heading 1]: 5. Lista de verificación previa a la entrega
+P165 [Normal]: ☐  La presentación del proyecto está completa: datos generales, objetivo, usuarios, alcance, requisitos con criterios de aceptación y criterios de éxito.
+P166 [Normal]: ☐  Todos los integrantes tienen un rol TSPi, un suplente definido y responsabilidades verificables.
+P167 [Normal]: ☐  Los acuerdos de trabajo están formulados de manera concreta.
+P168 [Normal]: ☐  Cada integrante registró su disponibilidad semanal.
+P169 [Normal]: ☐  Todas las tareas tienen responsable, horas estimadas, semana planeada y evidencia de terminación.
+P170 [Normal]: ☐  La carga está verificada por integrante y por semana.
+P171 [Normal]: ☐  Las actas de las reuniones realizadas están completas y sus compromisos están vinculados a tareas.
+P172 [Normal]: ☐  Los enlaces al repositorio, al tablero y a los documentos están habilitados para la tutora o el cliente.
+P173 [Normal]: ☐  El historial de versiones está actualizado.
+P174 [Normal]: ☐  Se eliminaron todas las orientaciones en cursiva azul.
+P175 [Normal]: ORIENTACIÓN · ELIMINAR EN LA VERSIÓN FINAL
+P176 [Normal]: Esta lista resume las condiciones de una entrega completa. El gerente de calidad y proceso la recorre con el equipo antes de enviar el documento.
+
+=== TABLES ===
+
+--- TABLE 0 (4x2) ---
+R0: ['Proyecto', '']
+R1: ['Equipo', '']
+R2: ['Versión del documento', '']
+R3: ['Fecha', '']
+
+--- TABLE 1 (3x6) ---
+R0: ['Versión', 'Fecha', 'Cambio realizado', 'Motivo', 'Efecto en tareas, horas o fechas', 'Aprobado por']
+R1: ['1.0', '', 'Versión inicial del plan', '', '—', '']
+R2: ['', '', '', '', '', '']
+
+--- TABLE 2 (6x2) ---
+R0: ['Campo', 'Información']
+R1: ['Nombre del proyecto', '']
+R2: ['Fecha de inicio del proyecto', '']
+R3: ['Fecha de entrega final', '']
+R4: ['Duración en semanas', '']
+R5: ['Documento de origen del proyecto (enunciado, solicitud del cliente)', '']
+
+--- TABLE 3 (2x1) ---
+R0: ['Objetivo del producto']
+R1: ['']
+
+--- TABLE 4 (4x4) ---
+R0: ['Tipo de usuario', 'Descripción', 'Qué necesita hacer con el producto', 'Requisitos relacionados']
+R1: ['', '', '', '']
+R2: ['', '', '', '']
+R3: ['', '', '', '']
+
+--- TABLE 5 (6x4) ---
+R0: ['ID', 'Requisito', 'Origen', 'Criterio de aceptación']
+R1: ['R01', '', '', '']
+R2: ['R02', '', '', '']
+R3: ['R03', '', '', '']
+R4: ['R04', '', '', '']
+R5: ['R05', '', '', '']
+
+--- TABLE 6 (4x4) ---
+R0: ['Criterio', 'Indicador o forma de medirlo', 'Meta', 'Responsable de seguimiento']
+R1: ['', '', '', '']
+R2: ['', '', '', '']
+R3: ['', '', '', '']
+
+--- TABLE 7 (8x4) ---
+R0: ['Elemento', 'Herramienta o tecnología elegida', 'Razón de la elección', 'Enlace']
+R1: ['Interfaz de usuario (frontend)', '', '', '']
+R2: ['Lógica y datos (backend, base de datos)', '', '', '']
+R3: ['Repositorio de código y control de versiones', '', '', '']
+R4: ['Tablero de tareas', '', '', '']
+R5: ['Canal de comunicación del equipo', '', '', '']
+R6: ['Documentos compartidos', '', '', '']
+R7: ['Registro de tiempos', '', '', '']
+
+--- TABLE 8 (6x5) ---
+R0: ['Nombre completo', 'Iniciales', 'Correo', 'Conocimientos y experiencia relevantes', 'Interés principal en el proyecto']
+R1: ['', '', '', '', '']
+R2: ['', '', '', '', '']
+R3: ['', '', '', '', '']
+R4: ['', '', '', '', '']
+R5: ['', '', '', '', '']
+
+--- TABLE 9 (6x5) ---
+R0: ['Rol TSPi', 'Titular', 'Suplente', 'Responsabilidades concretas en este proyecto', 'Evidencia que produce']
+R1: ['Líder de equipo', '', '', '', '']
+R2: ['Gerente de desarrollo', '', '', '', '']
+R3: ['Gerente de planeación', '', '', '', '']
+R4: ['Gerente de calidad y proceso', '', '', '', '']
+R5: ['Gerente de soporte', '', '', '', '']
+
+--- TABLE 10 (8x2) ---
+R0: ['Aspecto', 'Acuerdo del equipo']
+R1: ['Canal principal de comunicación y tiempo de respuesta esperado', '']
+R2: ['Reuniones de equipo: día, hora, duración y modalidad', '']
+R3: ['Lugar donde se registran tareas, tiempos, acuerdos y evidencias', '']
+R4: ['Revisión del trabajo y condiciones para dar una tarea por terminada', '']
+R5: ['Manejo de bloqueos, retrasos e incumplimientos', '']
+R6: ['Aprobación y registro de cambios al plan', '']
+R7: ['Toma de decisiones cuando no hay consenso', '']
+
+--- TABLE 11 (7x10) ---
+R0: ['Integrante', 'S1', 'S2', 'S3', 'S4', 'S5', 'S6', 'S7', 'S8', 'Total']
+R1: ['', '', '', '', '', '', '', '', '', '']
+R2: ['', '', '', '', '', '', '', '', '', '']
+R3: ['', '', '', '', '', '', '', '', '', '']
+R4: ['', '', '', '', '', '', '', '', '', '']
+R5: ['', '', '', '', '', '', '', '', '', '']
+R6: ['Total equipo', '', '', '', '', '', '', '', '', '']
+
+--- TABLE 12 (3x4) ---
+R0: ['Integrante', 'Semana', 'Situación', 'Efecto en la disponibilidad']
+R1: ['', '', '', '']
+R2: ['', '', '', '']
+
+--- TABLE 13 (6x9) ---
+R0: ['ID', 'Tarea', 'Requisito', 'Fase', 'Responsable', 'Horas estimadas', 'Semana planeada', 'Depende de', 'Evidencia de terminación']
+R1: ['T01', '', '', '', '', '', '', '', '']
+R2: ['T02', '', '', '', '', '', '', '', '']
+R3: ['T03', '', '', '', '', '', '', '', '']
+R4: ['T04', '', '', '', '', '', '', '', '']
+R5: ['T05', '', '', '', '', '', '', '', '']
+
+--- TABLE 14 (5x4) ---
+R0: ['Semana', 'Hito o entregable', 'Fecha', 'Evidencia prevista']
+R1: ['', '', '', '']
+R2: ['', '', '', '']
+R3: ['', '', '', '']
+R4: ['', '', '', '']
+
+--- TABLE 15 (6x5) ---
+R0: ['Integrante', 'Horas asignadas en tareas', 'Horas disponibles', 'Diferencia', 'Ajuste realizado']
+R1: ['', '', '', '', '']
+R2: ['', '', '', '', '']
+R3: ['', '', '', '', '']
+R4: ['', '', '', '', '']
+R5: ['', '', '', '', '']
+
+--- TABLE 16 (10x5) ---
+R0: ['Semana', 'Horas planeadas', 'Horas disponibles', 'Diferencia', 'Ajuste realizado']
+R1: ['S1', '', '', '', '']
+R2: ['S2', '', '', '', '']
+R3: ['S3', '', '', '', '']
+R4: ['S4', '', '', '', '']
+R5: ['S5', '', '', '', '']
+R6: ['S6', '', '', '', '']
+R7: ['S7', '', '', '', '']
+R8: ['S8', '', '', '', '']
+R9: ['Total', '', '', '', '']
+
+--- TABLE 17 (9x2) ---
+R0: ['Campo', 'Registro']
+R1: ['Fecha', '']
+R2: ['Hora de inicio y de finalización', '']
+R3: ['Modalidad y lugar o enlace', '']
+R4: ['Moderó', '']
+R5: ['Registró el acta', '']
+R6: ['Asistentes', '']
+R7: ['Ausentes y motivo', '']
+R8: ['Propósito de la reunión', '']
+
+--- TABLE 18 (3x3) ---
+R0: ['Tema', 'Resumen de lo tratado', 'Enlace a evidencia']
+R1: ['', '', '']
+R2: ['', '', '']
+
+--- TABLE 19 (3x2) ---
+R0: ['Decisión', 'Justificación']
+R1: ['', '']
+R2: ['', '']
+
+--- TABLE 20 (2x2) ---
+R0: ['Dificultad', 'Acción acordada']
+R1: ['', '']
+
+--- TABLE 21 (4x4) ---
+R0: ['Compromiso', 'Responsable', 'Fecha límite', 'Tarea relacionada (ID)']
+R1: ['', '', '', '']
+R2: ['', '', '', '']
+R3: ['', '', '', '']
