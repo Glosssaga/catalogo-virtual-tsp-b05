@@ -1,0 +1,18 @@
+# Node / Javascript
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Python / Docx
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+Thumbs.db
+.DS_Store

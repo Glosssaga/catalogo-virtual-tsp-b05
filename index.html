@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo Virtual TSP - Subgrupo B05</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- HEADER & NAVBAR -->
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="logo">
+        <span class="logo-badge">TSP B05</span>
+        <h2>TechStore Virtual</h2>
+      </div>
+
+      <div class="nav-actions">
+        <!-- User auth state -->
+        <div id="user-session" class="user-session">
+          <button id="btn-open-auth" class="btn btn-outline">Iniciar Sesión / Registro</button>
+          <div id="user-profile" class="user-profile hidden">
+            <span>Hola, <strong id="user-display-name">Usuario</strong></span>
+            <button id="btn-logout" class="btn-link">Cerrar Sesión</button>
+          </div>
+        </div>
+
+        <!-- Cart Button -->
+        <button id="btn-open-cart" class="btn btn-cart">
+          🛒 Carrito (<span id="cart-counter">0</span>)
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN CONTAINER -->
+  <main class="main-container">
+    <!-- FILTERS & SEARCH SECTION -->
+    <section class="filters-card">
+      <div class="search-basic">
+        <input type="text" id="input-search" placeholder="🔍 Buscar artículo por nombre..." />
+      </div>
+
+      <div class="advanced-filters">
+        <div class="filter-item">
+          <label for="select-category">Categoría:</label>
+          <select id="select-category">
+            <option value="">Todas las categorías</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label for="range-price">Precio máximo: <span id="price-value">$3.500.000</span></label>
+          <input type="range" id="range-price" min="50000" max="3500000" step="50000" value="3500000">
+        </div>
+
+        <button id="btn-reset-filters" class="btn btn-secondary">Limpiar Filtros</button>
+      </div>
+    </section>
+
+    <!-- STATUS BAR -->
+    <div class="catalog-status">
+      <span id="results-count">Mostrando 20 artículos</span>
+      <span class="tsp-badge">Metodología TSP · Grupo B05</span>
+    </div>
+
+    <!-- PRODUCTS GRID -->
+    <section id="products-grid" class="products-grid">
+      <!-- Injected by JavaScript -->
+    </section>
+  </main>
+
+  <!-- MODAL: PRODUCT DETAIL (AMPLIACIÓN E IMAGEN) -->
+  <div id="modal-product" class="modal hidden">
+    <div class="modal-overlay" id="close-modal-product"></div>
+    <div class="modal-card">
+      <button class="modal-close-btn" id="btn-close-modal-product">&times;</button>
+      <div class="modal-body-product">
+        <div class="modal-img-container">
+          <img id="modal-product-img" src="" alt="Producto ampliado">
+          <span class="zoom-tag">🔍 Vista ampliada</span>
+        </div>
+        <div class="modal-info-container">
+          <span id="modal-product-cat" class="category-tag"></span>
+          <h2 id="modal-product-title"></h2>
+          <p id="modal-product-desc"></p>
+          <div class="product-specs">
+            <div class="spec-row">
+              <span>Precio Unitario:</span>
+              <strong id="modal-product-price" class="price-highlight"></strong>
+            </div>
+            <div class="spec-row">
+              <span>Disponibilidad en Stock:</span>
+              <span id="modal-product-stock"></span>
+            </div>
+          </div>
+
+          <div class="buy-section">
+            <label for="modal-quantity">Cantidad a comprar:</label>
+            <div class="quantity-control">
+              <button id="btn-qty-minus">-</button>
+              <input type="number" id="modal-quantity" min="1" value="1">
+              <button id="btn-qty-plus">+</button>
+            </div>
+            <button id="btn-add-to-cart-modal" class="btn btn-primary btn-block">Añadir al Carrito</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: AUTHENTICATION (LOGIN / REGISTRO) -->
+  <div id="modal-auth" class="modal hidden">
+    <div class="modal-overlay" id="close-modal-auth"></div>
+    <div class="modal-card auth-modal-card">
+      <button class="modal-close-btn" id="btn-close-modal-auth">&times;</button>
+      <div class="auth-tabs">
+        <button id="tab-login" class="tab-btn active">Iniciar Sesión</button>
+        <button id="tab-register" class="tab-btn">Registrarse</button>
+      </div>
+
+      <!-- Login Form -->
+      <form id="form-login" class="auth-form">
+        <h3>Bienvenido de nuevo</h3>
+        <p class="auth-subtitle">Ingresa para realizar tu pedido</p>
+        <div class="form-group">
+          <label>Correo Electrónico:</label>
+          <input type="email" id="login-email" required placeholder="correo@ejemplo.com">
+        </div>
+        <div class="form-group">
+          <label>Contraseña:</label>
+          <input type="password" id="login-password" required placeholder="••••••••">
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Acceder</button>
+      </form>
+
+      <!-- Register Form -->
+      <form id="form-register" class="auth-form hidden">
+        <h3>Crear Nueva Cuenta</h3>
+        <p class="auth-subtitle">Regístrate para comprar en la tienda</p>
+        <div class="form-group">
+          <label>Nombre Completo:</label>
+          <input type="text" id="reg-name" required placeholder="Tu Nombre">
+        </div>
+        <div class="form-group">
+          <label>Correo Electrónico:</label>
+          <input type="email" id="reg-email" required placeholder="correo@ejemplo.com">
+        </div>
+        <div class="form-group">
+          <label>Contraseña:</label>
+          <input type="password" id="reg-password" required placeholder="••••••••">
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Completar Registro</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- SIDEBAR: SHOPPING CART -->
+  <div id="cart-sidebar" class="cart-sidebar hidden">
+    <div class="cart-header">
+      <h3>Tu Carrito de Compras</h3>
+      <button id="btn-close-cart" class="btn-close">&times;</button>
+    </div>
+
+    <div id="cart-items" class="cart-items">
+      <!-- Items dynamically added -->
+    </div>
+
+    <div class="cart-footer">
+      <div class="cart-summary">
+        <div class="summary-line">
+          <span>Total Artículos:</span>
+          <strong id="cart-total-qty">0</strong>
+        </div>
+        <div class="summary-line total-highlight">
+          <span>Total a Pagar:</span>
+          <strong id="cart-total-price">$0</strong>
+        </div>
+      </div>
+      <button id="btn-checkout" class="btn btn-primary btn-block">Proceder al Pedido</button>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>© 2026 Catálogo Virtual · Politécnico Grancolombiano · Desarrollo de Software en Equipos (TSP - Grupo B05)</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
