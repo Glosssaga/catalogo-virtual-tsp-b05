@@ -26,12 +26,12 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
    - Monitorea el cumplimiento de las fechas e hitos del calendario académico.
    - Apoya con la estimación y consolidación de horas semanales.
 
-4. **Gerente de Desarrollo — JOAN MORALES PÉREZ**
+4. **Gerente de Desarrollo — DIEGO RAMOS PEÑA (@1003ramosdiego-boop)**
    - Conduce la definición de requisitos y el diseño de la arquitectura del software.
    - Supervisa la implementación del catálogo (frontend y lógica de datos).
    - Asegura que el catálogo cumpla con los 20 artículos y todos los módulos solicitados.
 
-5. **Gerente de Soporte — DIEGO RAMOS PEÑA**
+5. **Gerente de Soporte — JOAN MORALES PÉREZ**
    - Administra el repositorio en GitHub, las ramas de trabajo y el control de versiones.
    - Garantiza que el equipo cuente con las herramientas, dependencias y entorno de desarrollo listos.
    - Vela por la integridad de la configuración y previene conflictos de código.
@@ -45,8 +45,8 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
 | **GLORIA LUCIA OSSA GARCIA** | **GO** | `@glossaga` | `glossaga@gmail.com` | **Líder de Equipo** | 10 - 12 hrs/sem |
 | **HAIDER MAURICIO BOTIA GÓMEZ** | **HMB** | `@haiderbxmauricio-svg` | `haiderbxmauricio@gmail.com` | **Gerente de Calidad y Proceso** | 4 - 6 hrs/sem |
 | **KAROL TATIANA ESPINOSA MANTILLA** | **KTE** | `@KarolTe` | `karoltespi@gmail.com` | **Gerente de Planeación** | 6 hrs/sem |
-| **JOAN MORALES PÉREZ** | **JM** | `@` | `jmorales@poligran.edu.co` | **Gerente de Desarrollo** | 10 - 12 hrs/sem |
-| **DIEGO RAMOS PEÑA** | **DR** | `@` | `dramos@poligran.edu.co` | **Gerente de Soporte** | 10 - 12 hrs/sem |
+| **DIEGO RAMOS PEÑA** | **DR** | `@1003ramosdiego-boop` | `1003ramosdiego@gmail.com` | **Gerente de Desarrollo** | 4 - 6 hrs/sem |
+| **JOAN MORALES PÉREZ** | **JM** | `@` | `jmorales@poligran.edu.co` | **Gerente de Soporte** | 10 - 12 hrs/sem |
 
 ---
 
