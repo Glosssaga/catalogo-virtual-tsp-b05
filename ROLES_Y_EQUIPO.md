@@ -31,7 +31,7 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
    - Supervisa la implementación del catálogo (frontend y lógica de datos).
    - Asegura que el catálogo cumpla con los 20 artículos y todos los módulos solicitados.
 
-5. **Gerente de Soporte — JOAN MORALES PÉREZ**
+5. **Gerente de Soporte — JOAN SEBASTIAN MORALES PÉREZ (@JsMorales0301)**
    - Administra el repositorio en GitHub, las ramas de trabajo y el control de versiones.
    - Garantiza que el equipo cuente con las herramientas, dependencias y entorno de desarrollo listos.
    - Vela por la integridad de la configuración y previene conflictos de código.
@@ -46,7 +46,7 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
 | **HAIDER MAURICIO BOTIA GÓMEZ** | **HMB** | `@haiderbxmauricio-svg` | `haiderbxmauricio@gmail.com` | **Gerente de Calidad y Proceso** | 4 - 6 hrs/sem |
 | **KAROL TATIANA ESPINOSA MANTILLA** | **KTE** | `@KarolTe` | `karoltespi@gmail.com` | **Gerente de Planeación** | 6 hrs/sem |
 | **DIEGO RAMOS PEÑA** | **DR** | `@1003ramosdiego-boop` | `1003ramosdiego@gmail.com` | **Gerente de Desarrollo** | 4 - 6 hrs/sem |
-| **JOAN MORALES PÉREZ** | **JM** | `@` | `jmorales@poligran.edu.co` | **Gerente de Soporte** | 10 - 12 hrs/sem |
+| **JOAN SEBASTIAN MORALES PÉREZ** | **JSM** | `@JsMorales0301` | `josmoralesp0307@outlook.es` | **Gerente de Soporte** | 8 - 10 hrs/sem |
 
 ---
 
@@ -57,9 +57,9 @@ Bienvenido/a al equipo de desarrollo TSP. Para la **Entrega 1 (Escenario 3 - 10 
 | **GLORIA LUCIA OSSA GARCIA** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
 | **HAIDER MAURICIO BOTIA GÓMEZ** | 4 | 5 | 6 | 5 | 6 | 5 | 6 | 4 | **41** |
 | **KAROL TATIANA ESPINOSA MANTILLA** | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | **48** |
-| **JOAN MORALES PÉREZ** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
-| **DIEGO RAMOS PEÑA** | 10 | 10 | 12 | 10 | 12 | 10 | 12 | 10 | **86** |
-| **Total Equipo** | **40** | **41** | **50** | **41** | **50** | **41** | **50** | **34** | **347** |
+| **DIEGO RAMOS PEÑA** | 4 | 5 | 6 | 5 | 6 | 5 | 6 | 4 | **41** |
+| **JOAN SEBASTIAN MORALES PÉREZ** | 8 | 9 | 10 | 9 | 10 | 9 | 10 | 8 | **73** |
+| **Total Equipo** | **32** | **35** | **40** | **35** | **40** | **35** | **40** | **32** | **289** |
 
 ---
 

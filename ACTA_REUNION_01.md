@@ -20,7 +20,7 @@
 | **HAIDER MAURICIO BOTIA GÓMEZ** | **Asistió** | **Gerente de Calidad y Proceso** | Estándares de calidad, revisión de avances, auditoría de PRs y documentación. |
 | **KAROL TATIANA ESPINOSA MANTILLA** | **Asistió** | **Gerente de Planeación** | Estimación de tareas (WBS), cronograma y balance de carga semanal. |
 | **DIEGO RAMOS PEÑA** | **Asistió** | **Gerente de Desarrollo** | Arquitectura técnica, diseño y modelado de datos del catálogo en JSON. |
-| **JOAN MORALES PÉREZ** | **Asistió** | **Gerente de Soporte** | Administración de repositorio en GitHub, ramas de trabajo y configuración. |
+| **JOAN SEBASTIAN MORALES PÉREZ** | **Asistió** | **Gerente de Soporte** | Administración de repositorio en GitHub, ramas de trabajo y configuración. |
 
 **Ausentes y motivo:** Ninguno. Se registra asistencia completa y puntual del 100 % del subgrupo (5 de 5 integrantes presentes).
 
@@ -30,7 +30,7 @@
 1. **Revisión de directrices del módulo y roles TSP:** Se analizaron las Lecturas Fundamentales 1, 2 y 3, así como el anuncio oficial de la tutora Diana Angélica Cruz Ortega. Se definieron por consenso los 5 roles TSPi.
 2. **Definición del producto (Catálogo Virtual TechStore):** Se acordó estructurar la tienda virtual con 20 artículos clasificados de tecnología y accesorios en JSON, integrando búsqueda básica, búsqueda avanzada por precio/categoría, modal de detalles con imagen ampliada y carrito interactivo.
 3. **Entorno de trabajo y control de versiones:** Se estableció el repositorio oficial en GitHub (`https://github.com/Glosssaga/catalogo-virtual-tsp-b05`) con flujo estricto de ramas y Pull Requests obligatorios supervisados por Calidad y la Líder.
-4. **Disponibilidad horaria y balance de carga:** Se registraron las horas semanales de cada integrante (Haider y Diego: 4-6 h/sem; Karol: 6 h/sem; Gloria y Joan: 10-12 h/sem), verificando que el plan sea 100 % viable sin sobrecargas.
+4. **Disponibilidad horaria y balance de carga:** Se registraron las horas semanales de cada integrante (Haider y Diego: 4-6 h/sem; Karol: 6 h/sem; Joan: 8-10 h/sem; Gloria: 10-12 h/sem), verificando que el plan sea 100 % viable sin sobrecargas.
 
 ---
 
