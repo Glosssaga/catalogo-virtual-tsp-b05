@@ -56,3 +56,11 @@
 | Verificar roles y registro en BITACORA_TIEMPOS_TSP.md | Todos los integrantes | 09/11/2026 | T01 |
 | Revisión y auditoría de calidad de la Entrega 1 | HAIDER BOTIA GÓMEZ | 10/11/2026 a las 18:00 | T08 / T12 |
 | Carga del archivo oficial TSP_E1_SG05.pdf en Campus Virtual | GLORIA LUCIA OSSA GARCIA | 10/11/2026 a las 23:55 | T03 |
+
+---
+
+### 7. Convocatoria a la Próxima Reunión
+- **Fecha y hora:** Miércoles 11 de noviembre de 2026 a las 19:00
+- **Duración máxima:** 60 minutos (tolerancia de 10 minutos)
+- **Modalidad y enlace:** Virtual sincrónica mediante Microsoft Teams
+- **Propósito:** Revisión del balance posterior a la Entrega 1, arranque del desarrollo de la Entrega 2 (módulos de búsqueda y catálogo) y auditoría de la bitácora de tiempos TSP.
