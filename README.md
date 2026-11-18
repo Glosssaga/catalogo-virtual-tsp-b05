@@ -64,3 +64,16 @@ Para garantizar la calidad y que la Líder de Proyecto y el Gerente de Calidad p
    ```
 5. Abrir un **Pull Request (PR)** hacia `main`.
 6. La **Líder del Proyecto** (`@glossaga`) y el **Gerente de Calidad** (`@haiderbxmauricio-svg`) revisarán el código, verificarán que cumpla los criterios de aceptación y aprobarán el merge.
+
+---
+
+## 📑 Documentación y Entregas Oficiales TSP
+
+| Documento / Evidencia | Descripción | Enlace |
+| :--- | :--- | :---: |
+| **Documento Oficial Entrega 1** | Plan de lanzamiento oficial (Escenario 3) | [`docs/TSP_E1_SG05.pdf`](./docs/TSP_E1_SG05.pdf) |
+| **Documento Oficial Entrega 2** | Avance de desarrollo, WBS 2.0 y bitácoras (Escenario 5) | [`docs/TSP_E2_SG05.pdf`](./docs/TSP_E2_SG05.pdf) |
+| **Acta de Reunión N.° 01** | Lanzamiento del proyecto (07 de noviembre de 2026) | [`ACTA_REUNION_01.md`](./ACTA_REUNION_01.md) |
+| **Acta de Reunión N.° 02** | Ajuste del Plan de Trabajo V2.0 (11 de noviembre de 2026) | [`ACTA_REUNION_02.md`](./ACTA_REUNION_02.md) |
+| **Acta de Reunión N.° 03** | Consolidación y pruebas de Entrega 2 (18 de noviembre de 2026) | [`ACTA_REUNION_03.md`](./ACTA_REUNION_03.md) |
+| **Bitácora de Tiempos TSP** | Registro detallado y consolidado de horas (Fases TSP) | [`BITACORA_TIEMPOS_TSP.md`](./BITACORA_TIEMPOS_TSP.md) |
