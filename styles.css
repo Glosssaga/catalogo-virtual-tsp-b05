@@ -84,6 +84,24 @@ body {
 .btn-primary:hover {
   background-color: var(--primary-hover);
 }
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.checkbox-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  padding-bottom: 0.35rem;
+}
+
+.stock-empty {
+  color: #dc2626;
+  font-weight: 600;
+}
 
 .btn-outline {
   background: transparent;
@@ -437,9 +455,29 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 0.75rem;
   padding: 0.75rem;
   border: 1px solid var(--border);
   border-radius: 6px;
+}
+
+.cart-item-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.btn-qty-cart {
+  width: 26px;
+  height: 26px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+}
+.btn-qty-cart:hover {
+  background: #f1f5f9;
 }
 
 .cart-footer {

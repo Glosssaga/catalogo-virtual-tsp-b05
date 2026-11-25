@@ -56,6 +56,13 @@
           <input type="range" id="range-price" min="50000" max="3500000" step="50000" value="3500000">
         </div>
 
+        <div class="filter-item">
+          <label class="checkbox-filter" for="check-in-stock">
+            <input type="checkbox" id="check-in-stock">
+            Solo con stock disponible
+          </label>
+        </div>
+
         <button id="btn-reset-filters" class="btn btn-secondary">Limpiar Filtros</button>
       </div>
     </section>
@@ -173,6 +180,14 @@
         <div class="summary-line">
           <span>Total Artículos:</span>
           <strong id="cart-total-qty">0</strong>
+        </div>
+        <div class="summary-line">
+          <span>Subtotal:</span>
+          <strong id="cart-subtotal-price">$0</strong>
+        </div>
+        <div class="summary-line">
+          <span>IVA (19%):</span>
+          <strong id="cart-tax-price">$0</strong>
         </div>
         <div class="summary-line total-highlight">
           <span>Total a Pagar:</span>
