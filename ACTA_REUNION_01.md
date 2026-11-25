@@ -5,7 +5,7 @@
 ### 1. Datos Generales de la Sesión
 - **Fecha:** 07 de noviembre de 2026
 - **Hora de inicio:** 19:00
-- **Hora de finalización:** 20:30 (90 minutos)
+- **Hora de finalización:** 20:00 (60 minutos)
 - **Modalidad y enlace:** Virtual sincrónica mediante Microsoft Teams / Coordinación activa por WhatsApp
 - **Moderó:** GLORIA LUCIA OSSA GARCIA (Líder de Equipo)
 - **Secretario / Registro del Acta:** HAIDER MAURICIO BOTIA GÓMEZ (Gerente de Calidad y Proceso)

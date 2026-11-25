@@ -45,11 +45,11 @@ En la metodología TSP/PSP (Team Software Process / Personal Software Process), 
 
 | Fecha | Integrante | Rol TSP | Fase | Inicio | Fin | Tiempo (Min) | Tarea / Descripción de la Actividad | Commit / PR / Evidencia |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :--- |
-| **28/10/2026** | Gloria Ossa | Líder | PLAN | 19:00 | 20:30 | 90 | Conducción Reunión de Lanzamiento N.° 01, acuerdos de equipo y roles TSP | Acta N.° 01 |
-| **28/10/2026** | Haider Botia | Calidad | PLAN | 19:00 | 20:30 | 90 | Registro del Acta N.° 01 y acuerdos de calidad de comunicación | Acta N.° 01 |
-| **28/10/2026** | Karol Espinosa | Planeación | PLAN | 19:00 | 20:30 | 90 | Registro de disponibilidades y matriz de restricciones horarias | Acta N.° 01 |
-| **28/10/2026** | Diego Ramos | Desarrollo | PLAN | 19:00 | 20:30 | 90 | Acuerdos de arquitectura técnica y roles de desarrollo | Acta N.° 01 |
-| **28/10/2026** | Joan Morales | Soporte | PLAN | 19:00 | 20:30 | 90 | Planificación de entorno Git y ramas de trabajo en GitHub | Acta N.° 01 |
+| **28/10/2026** | Gloria Ossa | Líder | PLAN | 19:00 | 20:00 | 60 | Conducción Reunión de Lanzamiento N.° 01, acuerdos de equipo y roles TSP | Acta N.° 01 |
+| **28/10/2026** | Haider Botia | Calidad | PLAN | 19:00 | 20:00 | 60 | Registro del Acta N.° 01 y acuerdos de calidad de comunicación | Acta N.° 01 |
+| **28/10/2026** | Karol Espinosa | Planeación | PLAN | 19:00 | 20:00 | 60 | Registro de disponibilidades y matriz de restricciones horarias | Acta N.° 01 |
+| **28/10/2026** | Diego Ramos | Desarrollo | PLAN | 19:00 | 20:00 | 60 | Acuerdos de arquitectura técnica y roles de desarrollo | Acta N.° 01 |
+| **28/10/2026** | Joan Morales | Soporte | PLAN | 19:00 | 20:00 | 60 | Planificación de entorno Git y ramas de trabajo en GitHub | Acta N.° 01 |
 | **31/10/2026** | Joan Morales | Soporte | PLAN | 15:00 | 17:30 | 150 | Creación de repositorio en GitHub, protección de rama main y ramas de trabajo | Commit `1b82d71` |
 | **02/11/2026** | Gloria Ossa | Líder | REQ | 18:00 | 20:00 | 120 | Especificación de los 7 módulos del catálogo según enunciado oficial | Doc E1 / Requisitos |
 | **03/11/2026** | Diego Ramos | Desarrollo | DES | 17:00 | 20:00 | 180 | Modelado de datos JSON (esquema de 20 artículos: código, precio, stock, imagen) | `data/products.json` |
