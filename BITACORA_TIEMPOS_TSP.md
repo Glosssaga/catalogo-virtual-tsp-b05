@@ -77,3 +77,4 @@ En la metodología TSP/PSP (Team Software Process / Personal Software Process), 
 | **18/11/2026** | Karol Espinosa | Planeación | PLAN | 19:00 | 20:15 | 75 | Consolidación de bitácoras de tiempo y verificación de balance de carga | Acta N.° 03 |
 | **18/11/2026** | Diego Ramos | Desarrollo | PLAN | 19:00 | 20:15 | 75 | Sustentación técnica del estado de los módulos de la Entrega 2 | Acta N.° 03 |
 | **18/11/2026** | Joan Morales | Soporte | PLAN | 19:00 | 20:15 | 75 | Verificación de sincronización de código y documentación en GitHub | Acta N.° 03 |
+| **24/11/2026** | Haider Botia | Calidad | CODE | 19:40 | 20:30 | 50 | Ajustes de validación de stock, filtros de disponibilidad y cálculo de IVA en carrito | Rama feature/mejoras-calidad-catalogo |
